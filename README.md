@@ -4,3 +4,6 @@ This repository contains my practical notebooks, notes, and data visualization p
 
 ## Contents
 * **01_Matplotlib**: Introduction to Data Visualization (Line plots, Scatter plots, Histograms, and advanced customizations).
+
+* **02_Dictionaries_and_Pandas**: Introduction to Python Dictionaries (Key-Value pairs, manipulations, nested dicts) and Pandas DataFrames indexing (`loc` and `iloc`).
+
