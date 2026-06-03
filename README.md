@@ -11,6 +11,9 @@ This repository contains my practical notebooks, notes, and data visualization p
 
 * **04_Loops.ipynb**: Mastering for and while loops, enumerate(), and Pandas `.iterrows()` vs `.apply()`.
 
+* **05_Hacker_Statistics.ipynb**: Case study on simulation and probability, mastering random numbers, random walks, and distribution analysis.
+
+
 
 ---
 ### Data
