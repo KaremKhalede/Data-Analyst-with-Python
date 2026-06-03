@@ -7,7 +7,10 @@ This repository contains my practical notebooks, notes, and data visualization p
 
 * **02_Dictionaries_and_Pandas**: Introduction to Python Dictionaries (Key-Value pairs, manipulations, nested dicts) and Pandas DataFrames indexing (`loc` and `iloc`).
 
-* `03_Logic_and_Control_Flow.ipynb`: Core logic, comparison/boolean operators, conditional statements, and data filtering.
+* **03_Logic_and_Control_Flow.ipynb**: Core logic, comparison/boolean operators, conditional statements, and data filtering.
+
+* **04_Loops.ipynb**: Mastering for and while loops, enumerate(), and Pandas `.iterrows()` vs `.apply()`.
+
 
 ---
 ### Data
