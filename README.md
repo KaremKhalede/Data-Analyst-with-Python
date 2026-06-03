@@ -20,21 +20,4 @@ This repository contains my practical notebooks, notes, and data visualization p
 * **Libraries:** Pandas, NumPy, Matplotlib
 
 
-## Contents
-
-```text
-├── 📂 01_Matplotlib/ ............. Introduction to Data Visualization (Line plots, Scatter plots, Histograms)
-├── 📂 02_Dictionaries_and_Pandas/  Introduction to Python Dictionaries & DataFrames indexing (`loc` and `iloc`)
-└── 📄 03_Logic_and_Control_Flow.ipynb  Core logic, comparison/boolean operators, and conditional statements
-```
-
----
-
-## 📁 Repository Structure & Data
-
-```text
-├── 📂 datasets/ ................. Contains source data files used for analysis
-│   └── 📄 cars.csv .............. Dataset used for filtering operations
-├── 📂 scripts/ .................. Python scripts for data automation and utilities
-└── 📄 .gitignore ................ Specifies intentionally untracked files to ignore
 ```
