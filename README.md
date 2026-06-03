@@ -8,8 +8,11 @@ This repository contains my practical notebooks, notes, and data visualization p
 * **02_Dictionaries_and_Pandas**: Introduction to Python Dictionaries (Key-Value pairs, manipulations, nested dicts) and Pandas DataFrames indexing (`loc` and `iloc`).
 
 * `03_Logic_and_Control_Flow.ipynb`: Core logic, comparison/boolean operators, conditional statements, and data filtering.
-* `datasets/`: Contains source data files used for analysis.
-  * `cars.csv`: Dataset used for filtering operations.
+
+-----------------
+### Data
+* 📁 **datasets/**: Contains source data files used for analysis.
+  * 📄 `cars.csv`: Dataset used for filtering operations.
 
 ------------------
 ## 🧠 Core Technologies
